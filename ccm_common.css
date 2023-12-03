@@ -133,7 +133,7 @@ CapyMenu CM v2.0
     content: '';
     height: 20px;
     width: 20px;
-    -webkit-mask-image: url('/themes_custom/CCM v2/assets/checkmark.svg');
+    -webkit-mask-image: url('/themes_custom/CapyMenu%20%28Context%20Menus%29/assets/checkmark.svg');
     -webkit-mask-position: center;
     -webkit-mask-repeat: no-repeat;
     background: var(--ccm-body-fg);
